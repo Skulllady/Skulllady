@@ -1,10 +1,7 @@
-### Hey there, I am Lisa aka ⛓💀⛓ Skulllady ⛓💀⛓
-
-Here are some ideas to get you started:
+### Hi there! 
+### I am Lisa aka Skulllady 💀
 
 - 🔭 I’m currently working on lemon_verbena, a personal finance app
-
-Connect with me:
 
 Languages and Tools:
 <p>
