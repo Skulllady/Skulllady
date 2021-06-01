@@ -1,7 +1,7 @@
 ### Hi there! 
 ### I am Lisa aka Skulllady 💀
 
-- 🔭 I’m currently working on lemon_verbena, a personal finance app
+- 🔭 I’m currently working on Serenity, a personal finance app
 
 Languages and Tools:
 <p>
