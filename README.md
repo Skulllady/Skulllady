@@ -1,4 +1,4 @@
-### Hi there! 
+### Welcometh aboard!
 ### I am Lisa aka Skulllady 💀
 
 - 🔭 I’m currently working on Serenity, a personal finance app
