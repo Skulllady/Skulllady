@@ -14,5 +14,5 @@ Languages and Tools:
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux ||  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skulllady&theme=dark" alt="Skulllady" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skulllady&theme=dark" alt="Skulllady" /></p> -->
 
