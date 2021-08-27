@@ -2,7 +2,7 @@
 ### I am Lisa aka Skulllady 💀
 
 - 🔭 I’m currently working on Serenity, a personal finance app
-
+<!-- 
 Languages and Tools:
 <p>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker ||  </a>
@@ -13,6 +13,4 @@ Languages and Tools:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React ||  </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux ||  </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skulllady&theme=dark&x=1" alt="Skulllady" /></p>
-
+ -->
